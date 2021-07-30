@@ -1,5 +1,5 @@
 # PCDetVisualizer
-新的mayavi可视化脚本。之前写的积重难返，干脆推导重写，并加一些功能、
+新的mayavi可视化脚本。之前写的积重难返，干脆推导重写，并加一些功能。
 
 # TODO(in order)
 * jupyter on remote notebook support
